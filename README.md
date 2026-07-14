@@ -1,4 +1,4 @@
-# Servidor de esdudos em HTTP de Desenvolvimento em Python (build-dev) *
+# Servidor de esdudos em HTTP de Desenvolvimento em Python (build-dev)
 
 Este é um projeto de servidor web simples desenvolvido em Python 3.6 que serve uma página HTML e registra os acessos (logs) em um diretório separado. O projeto foi totalmente containerizado utilizando **Docker** e está publicado no Docker Hub.
 
